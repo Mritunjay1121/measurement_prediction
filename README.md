@@ -1,5 +1,5 @@
 ---
-title: Image To Text App
+title: body-parts-measurements-prediction
 emoji: 📹
 colorFrom: blue
 colorTo: red
