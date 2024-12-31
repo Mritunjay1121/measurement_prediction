@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://datasciencesage:$HF_TOKEN@huggingface.co/spaces/datasciencesage/body-parts-measurements-prediction main
+        run: git push --force https://datasciencesage:$HF_TOKEN@huggingface.co/spaces/datasciencesage/body-parts-measurements-prediction main
