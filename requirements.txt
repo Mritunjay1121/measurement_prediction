@@ -1,0 +1,9 @@
+opencv-python
+numpy
+Pillow
+matplotlib
+keras==3.7.0
+tensorflow==2.18.0
+jax
+huggingface_hub==0.20.3
+streamlit
